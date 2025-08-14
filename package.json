@@ -1,0 +1,23 @@
+{
+  "name": "@lowhax/logger",
+  "version": "1.0.4",
+  "main": "src/index.js",
+  "type": "module",
+  "description": "simple and beatful logger using node js",
+  "keywords": [
+    "logger",
+    "log",
+    "nodejs",
+    "console",
+    "colors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/6hax/logger.git"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dayjs": "^1.11.10",
+    "fs-extra": "^11.1.1"
+  }
+}

@@ -58,4 +58,5 @@ Use variáveis para customizar:
 ---
 
 
-## made with <3 by hax
+
+## made with <3 by hax, dan and brutality
